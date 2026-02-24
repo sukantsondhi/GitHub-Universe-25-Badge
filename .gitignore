@@ -1,0 +1,141 @@
+.DS_Store
+__pycache__/
+*.pyc
+badge/.badge_state/**
+
+# Python
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.eggs
+.env
+.venv
+env/
+venv/
+ENV/
+VENV/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Environment
+.env
+.env.*
+
+# Pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Git
+*.orig
+
+# Test
+htmlcov/
+.coverage
+.tox/
+
+# Other
+*.log
+*.sqlite3
+
+# Node
+node_modules/
+
+# Ignore local settings
+.settings/
+
+# Ignore lock files
+Pipfile.lock
+poetry.lock
+
+# Ignore temporary files
+*.tmp
+*.temp
+~$*
+
+# Ignore backup files
+*.bak
+*.swp
+*.swo
+
+# Ignore compiled files
+*.so
+*.dll
+*.exe
+*.out
+*.app
+
+# Ignore cache
+.cache/
+
+# Ignore documentation builds
+docs/_build/
+
+# Ignore test results
+*.pytest_cache/
+
+# Ignore coverage reports
+.coverage
+coverage.xml
+
+# Ignore mypy
+.mypy_cache/
+
+# Ignore pyright
+pyrightconfig.json
+
+# Ignore pyenv
+.python-version
+
+# Ignore poetry
+poetry.lock
+
+# Ignore pipenv
+Pipfile.lock
+
+# Ignore virtualenv
+.venv/
+
+# Ignore site packages
+site/
+
+# Ignore wheels
+*.whl
+
+# Ignore egg
+*.egg
+
+# Ignore egg-info
+*.egg-info/
+
+# Ignore dist
+/dist/
+
+# Ignore build
+/build/
+
+# Ignore logs
+*.log
+
+# Ignore coverage
+.coverage
+
+# Ignore test
+/test/
