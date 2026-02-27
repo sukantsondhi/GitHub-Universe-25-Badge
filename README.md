@@ -8,9 +8,7 @@ Here's an overview of the repository structure to help you navigate through the 
 
 ```
 /
-├── badge/                     # Badge firmware and apps (deployed to /system/ on device)
-│   ├── main.py               # Main entry point and app launcher
-│   ├── secrets.py            # WiFi configuration secrets
+├── badge/                    # Badge firmware and apps (deployed to /system/ on device)
 │   ├── apps/                 # Application directory
 │   │   ├── badge/            # GitHub profile stats viewer
 │   │   ├── flappy/           # Flappy Bird style game
@@ -38,7 +36,9 @@ Here's an overview of the repository structure to help you navigate through the 
 │   ├── PixelFont.md          # Documentation for PixelFont module
 │   └── shapes.md             # Documentation for shapes module
 ├── README.md                 # Introduction to the repository
-└── LICENSE                   # License information
+├── LICENSE                   # License information
+├── main.py                   # Main entry point and app launcher
+└── secrets.py                # WiFi configuration secrets
 ```
 
 ## Repository Overview

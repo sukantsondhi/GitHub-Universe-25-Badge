@@ -1,4 +1,0 @@
-# Tasks
-
-## Next
-- [ ] First task
